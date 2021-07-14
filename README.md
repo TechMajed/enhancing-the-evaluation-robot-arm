@@ -10,24 +10,13 @@
 ![Untitled2](https://user-images.githubusercontent.com/85939115/125669926-4e172672-1353-4faf-80f2-3fbc812f38c7.JPG)
 
 
-**the movment of the new end effector:**
 
-https://user-images.githubusercontent.com/85939115/123497511-856ca500-d636-11eb-8982-b160b57537f8.mp4
+**the parts of the arm:**
 
-as it can illustrated that the shape was design with large swept area with reasonable length that will make it capable to reach further distance and large area.
+![image](https://user-images.githubusercontent.com/85939115/125670714-75d46ba5-f2db-4a31-a235-8c11d9f862e5.png)
 
-**the parts of the new end effector:**
-
-![image](https://user-images.githubusercontent.com/85939115/123497658-64f11a80-d637-11eb-8871-b38fb78bb640.png)
+**the assembly of the arm:**
 
 
-**the assembly of the new end effector:**
 
-https://user-images.githubusercontent.com/85939115/123497572-f0b67700-d636-11eb-90d7-d1916f76e023.mp4
-
-**robot arm with the new end effector:**
-
-![image](https://user-images.githubusercontent.com/85939115/123497241-03c84780-d635-11eb-85d0-24bc40e8c4e6.png)
-
-
-![image](https://user-images.githubusercontent.com/85939115/125669332-26645773-ecaf-48f1-9487-f8d7234c1e7d.png)
+https://user-images.githubusercontent.com/85939115/125670844-44e97fe6-e8c6-439f-a0e2-563ab751e274.mp4

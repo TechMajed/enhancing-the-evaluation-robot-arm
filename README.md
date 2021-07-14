@@ -20,3 +20,6 @@
 
 
 https://user-images.githubusercontent.com/85939115/125670844-44e97fe6-e8c6-439f-a0e2-563ab751e274.mp4
+
+![image](https://user-images.githubusercontent.com/85939115/125671081-04b72a18-8c31-4807-981f-c05e1807c562.png)
+as it can indicated from the figure above that in each place where there is a servo, there is a bearing to support the arm
